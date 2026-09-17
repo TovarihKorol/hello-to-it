@@ -1,6 +1,6 @@
 int main()
 {
-  std::cout << "Top-it";
+  std::cout << "T";
   std::cout << "\n";
   
 }
