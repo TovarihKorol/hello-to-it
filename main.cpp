@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
 {
-  std::cout << "Top-it\n";
+  std::cout << "Top-it";
+  std::cout << "\n";
 }
